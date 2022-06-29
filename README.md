@@ -7,9 +7,28 @@ Project to practice implementing GitHub Flow.
 - HTML
 - CSS
 
+# Live Demo
+[Live Demo Link](https://livedemo.com/)
+
 ## Authors
 
-👤 **Author1**
+👤 Shakhrizoda Yusupova
 
 - GitHub: [@shyusu4](https://github.com/shyusu4)
 - LinkedIn: (www.linkedin.com/in/shakhrizoda-yusupova-789253229)
+
+# 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page.](https://github.com/shyusu4/Hello-Microverse/issues)
+
+# Show your support
+Give a ⭐️ if you like this project!
+
+# Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
+
+# 📝 License
+This project is https://github.com/shyusu4/Hello-Microverse/blob/setup-project/MIT.md licensed.
