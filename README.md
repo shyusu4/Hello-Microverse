@@ -31,4 +31,4 @@ Inspiration
 etc
 
 # 📝 License
-This project is https://github.com/shyusu4/Hello-Microverse/blob/setup-project/MIT.md licensed.
+This project is [MIT](https://github.com/shyusu4/Hello-Microverse/blob/setup-project/MIT.md) licensed.
